@@ -1,0 +1,1 @@
+These are some extremely rough notes I compiled while I took Math 105, Second Course in Analysis. The class was taught by Professor Kumar in the spring of 2025.
